@@ -8,11 +8,11 @@ by Divesh Thakre
 
 ![preview](./assets/02.jpg)
 
-[Deployed link ](https://divesh1.netlify.app/)
+[Deployed link ](https://divesh2.netlify.app/)
 
 ## what concepts i Learned by Creating this website?
 
-- This project was fun i used some css baground-image property.
+- This project was fun i used some css background-image property.
 - Gained confidence on css selectors.
 
 ### Time Taken For this project is around 4 hrs.
